@@ -3,7 +3,7 @@ api: v1
 meta:
   id: df8d3e845977b62ed7a8
 spec:
-  description: log.analitics.wordpress
+  description: log.analitics.wordpress2
   topics: log.analitics.wordpress
   schema:
     type: object
