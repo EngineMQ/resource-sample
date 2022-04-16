@@ -1,0 +1,12 @@
+kind: auth
+api: v1
+meta:
+  id: 4887b730336400b8b55f
+spec:
+  description: Sample developer
+  token: iF3R0Hn6XKrwUbFaB7shot9uUratjOVI
+  publishTo: alma
+  subscribeTo:
+    - banan
+    - korte
+  webAccess: false

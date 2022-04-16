@@ -1,0 +1,11 @@
+kind: router
+api: v1
+meta:
+  id: 02e25a3a350425762755
+spec:
+  description: router-wp-to-log1-2
+  topic: log.analitics.wordpress
+  copyTo:
+    - log.1
+    - log.2
+  moveTo: []

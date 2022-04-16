@@ -1,0 +1,11 @@
+kind: router
+api: v1
+meta:
+  id: 67848928af3567af0000
+spec:
+  description: log-csaba2
+  topic: log.2
+  moveTo:
+    - log.21
+    - log.22
+    

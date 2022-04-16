@@ -1,0 +1,18 @@
+kind: validator
+api: v1
+meta:
+  id: df8d3e845977b62ed7a8
+spec:
+  description: log.analitics.wordpress
+  topics: log.analitics.wordpress
+  schema:
+    type: object
+    properties:
+      foo:
+        type: string
+      bar:
+        type: object
+        properties:
+          baz:
+            type: string
+    additionalProperties: false
