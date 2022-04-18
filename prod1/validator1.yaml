@@ -3,8 +3,8 @@ api: v1
 meta:
   id: df8d3e845977b62ed7a8
 spec:
-  description: log.analitics.wordpress2
-  topics: log.analitics.wordpress
+  description: ERP log format
+  topics: app.log.erp
   schema:
     type: object
     properties:

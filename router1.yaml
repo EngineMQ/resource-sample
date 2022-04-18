@@ -3,9 +3,9 @@ api: v1
 meta:
   id: 02e25a3a350425762755
 spec:
-  description: router-wp-to-log1-2
-  topic: log.analitics.wordpress
+  description: app-log-to-erp-crm
+  topic: app.log
   copyTo:
-    - log.1
-    - log.2
+    - app.log.erp
+    - app.log.crm
   moveTo: []

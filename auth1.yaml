@@ -5,8 +5,8 @@ meta:
 spec:
   description: Sample developer
   token: iF3R0Hn6XKrwUbFaB7shot9uUratjOVI
-  publishTo: alma
+  publishTo: alarm.all
   subscribeTo:
-    - banan
-    - korte
+    - app.log.crm
+    - app.log.erp
   webAccess: false
